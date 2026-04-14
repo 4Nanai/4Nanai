@@ -33,7 +33,7 @@
 
 <h3>Streak</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Nanai&" alt="4Nanai" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Nanai&theme=material-palenight" alt="4Nanai" />
 </p>
 
 <details>
