@@ -37,7 +37,79 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 254.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 132 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌆 Daytime                1806 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+🌃 Evening                1512 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌙 Night                  854 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  936 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Wednesday                687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Friday                   480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Saturday                 579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   921 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/4Nanai/4Nanai/master/assets/bar_graph.png)
+
+
+ Last Updated on 15/04/2026 01:43:35 UTC
 <!--END_SECTION:waka-->
 
 <details>
