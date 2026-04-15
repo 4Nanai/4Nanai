@@ -36,6 +36,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Nanai&theme=tokyonight" alt="4Nanai" />
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <details>
 <summary>Stats</summary>
     <p align="center">
