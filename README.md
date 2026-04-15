@@ -37,9 +37,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,16 +80,25 @@ Sunday                   921 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 36 mins       ████████████████░░░░░░░░░   63.69 % 
+YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Lua                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   7 hrs 6 mins        █████████████████████████   98.24 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UPlug                    4 hrs 41 mins       ████████████████░░░░░░░░░   64.73 % 
+4Nanai                   1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+nvim                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+oh-my-bash               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +114,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 02:08:36 UTC
+ Last Updated on 15/04/2026 08:17:27 UTC
 <!--END_SECTION:waka-->
 
 <details>
