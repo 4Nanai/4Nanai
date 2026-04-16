@@ -37,15 +37,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 254.2 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 140 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +56,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-🌆 Daytime                1806 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
-🌃 Evening                1512 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌙 Night                  854 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+🌞 Morning                473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌆 Daytime                1814 commits        ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌃 Evening                1553 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌙 Night                  869 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Tuesday                  936 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Wednesday                687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Friday                   480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Saturday                 579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   921 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Monday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Tuesday                  939 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Wednesday                725 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Friday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Saturday                 582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Sunday                   925 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 ```
 
 
@@ -80,41 +80,41 @@ Sunday                   921 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       ████████████████░░░░░░░░░   63.69 % 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Lua                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   9 hrs 52 mins       █████████████████░░░░░░░░   68.11 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTTP                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 6 mins        █████████████████████████   98.24 % 
-Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Neovim                   14 hrs 21 mins      █████████████████████████   99.12 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-UPlug                    4 hrs 41 mins       ████████████████░░░░░░░░░   64.73 % 
-4Nanai                   1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-nvim                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-oh-my-bash               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+UPlug                    10 hrs 43 mins      ███████████████████░░░░░░   74.08 % 
+4Nanai                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+nvim                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+UPlugCLI                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Linux                    7 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 15/04/2026 08:17:27 UTC
+ Last Updated on 16/04/2026 08:18:26 UTC
 <!--END_SECTION:waka-->
 
 <details>
