@@ -17,4 +17,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "False"
-          BADGE_STYLE: "for-the-badge"
+          BADGE_STYLE: "flat"
+          SHOW_SHORT_INFO: "False"
+          IGNORED_REPOS: "ok-wuthering-waves,WutheringWavesUID,VGA_FPGA_GameDesign"
