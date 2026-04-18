@@ -19,4 +19,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           BADGE_STYLE: "flat"
           SHOW_SHORT_INFO: "False"
-          IGNORED_REPOS: "ok-wuthering-waves,WutheringWavesUID,VGA_FPGA_GameDesign"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          IGNORED_REPOS: "ok-wuthering-waves,WutheringWavesUID,VGA_FPGA_GameDesign,ADDs_Proj,Mbed-code-for-Sophomore,Mbed-code-for-Sophomore-2,PT1000-Proj,ECE550,ECE550_GameDesign,NEXTJS_DASHBOARD,ESP32SwitchActuator,moegirl-mcp"
