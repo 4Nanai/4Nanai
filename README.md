@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **4nanaiiyo@gmail.com**
 
-<h3>Things I code with</h3>
+**Things I code with**
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-45b8d8?style=flat-square&logo=Swift&logoColor=white" />
@@ -26,12 +26,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>Top languages</h3>
-<p align="center">
-    <img src="./profile/top-langs.svg" />
-</p>
 
-<h3>Streak</h3>
+🔥 **Streak**
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Nanai&theme=tokyonight" alt="4Nanai" />
 </p>
@@ -117,9 +113,14 @@ Swift                    1 repo              █░░░░░░░░░░�
  Last Updated on 18/04/2026 07:45:11 UTC
 <!--END_SECTION:waka-->
 
+🚀 **Top languages**
+<p>
+    <img src="./profile/top-langs.svg" />
+</p>
+
 <details>
-<summary>Stats</summary>
-    <p align="center">
+<summary><b>Stats</b></summary>
+    <p>
         <img src="./profile/stats.svg"/>
     </p>
 </details>
