@@ -33,28 +33,28 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-🌆 Daytime                1019 commits        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌃 Evening                1393 commits        ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  840 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌞 Morning                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+🌆 Daytime                1019 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌃 Evening                1397 commits        ██████████░░░░░░░░░░░░░░░   38.16 % 
+🌙 Night                  841 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Tuesday                  596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Wednesday                569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Saturday                 512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   633 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Monday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Tuesday                  596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Friday                   468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Sunday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 ```
 
 
@@ -62,28 +62,28 @@ Sunday                   633 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   18 hrs 49 mins      ████████████████░░░░░░░░░   65.39 % 
-YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-KDL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Python                   21 hrs 1 min        █████████████████░░░░░░░░   66.31 % 
+YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Go                       1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Neovim                   28 hrs 47 mins      █████████████████████████   100.00 % 
+Neovim                   31 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UPlug                    18 hrs 53 mins      ████████████████░░░░░░░░░   65.60 % 
-linux                    3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-4Nanai                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-UPlugCLI                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-nvim                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+UPlug                    20 hrs 49 mins      ████████████████░░░░░░░░░   65.71 % 
+linux                    3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+4Nanai                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+UPlugCLI                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Unknown Project          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Linux                    28 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 07:56:10 UTC
+ Last Updated on 20/04/2026 08:38:27 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
