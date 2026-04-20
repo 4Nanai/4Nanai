@@ -28,7 +28,7 @@
 
 
 🔥 **Streak**
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Nanai&theme=tokyonight" alt="4Nanai" />
 </p>
 
