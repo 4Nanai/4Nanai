@@ -33,28 +33,28 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-🌆 Daytime                973 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌃 Evening                1342 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌙 Night                  819 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+🌞 Morning                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                973 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌃 Evening                1342 commits        █████████░░░░░░░░░░░░░░░░   37.96 % 
+🌙 Night                  819 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Tuesday                  563 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Monday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Thursday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 ```
 
 
@@ -62,28 +62,28 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   25 hrs 11 mins      █████████████████░░░░░░░░   68.83 % 
-YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Bash                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Markdown                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Go                       1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   20 hrs 44 mins      █████████████████░░░░░░░░   67.01 % 
+Go                       2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 35 mins      █████████████████████████   100.00 % 
+Neovim                   30 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UPlug                    26 hrs 8 mins       ██████████████████░░░░░░░   71.45 % 
-linux                    3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-4Nanai                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-UPlugCLI                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-nvim                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+UPlug                    21 hrs 26 mins      █████████████████░░░░░░░░   69.26 % 
+linux                    2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+UPlugCLI                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+4Nanai                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+MaaEnd                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-Linux                    36 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 08:21:30 UTC
+ Last Updated on 22/04/2026 08:19:41 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
