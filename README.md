@@ -33,7 +33,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,28 +62,27 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 26 mins       ████████████████░░░░░░░░░   64.93 % 
-Go                       1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Lua                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-KDL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Go                       1 hr 1 min          ██████████░░░░░░░░░░░░░░░   40.08 % 
+Python                   53 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
+Lua                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+KDL                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 49 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UPlug                    4 hrs 22 mins       ████████████████░░░░░░░░░   64.09 % 
-MaaEnd                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Unknown Project          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-nvim                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-tmuxifier                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+MaaEnd                   56 mins             █████████░░░░░░░░░░░░░░░░   36.35 % 
+Unknown Project          41 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+UPlug                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+nvim                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 💻 Operating System: 
-Linux                    6 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 09:07:47 UTC
+ Last Updated on 28/04/2026 09:06:29 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
