@@ -33,12 +33,56 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 29/04/2026 08:41:18 UTC
+```text
+🌞 Morning                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                973 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌃 Evening                1342 commits        █████████░░░░░░░░░░░░░░░░   37.96 % 
+🌙 Night                  819 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Thursday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   59 mins             █████████████░░░░░░░░░░░░   53.01 % 
+Go                       26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+KDL                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🔥 Editors: 
+Neovim                   1 hr 52 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+UPlug                    53 mins             ████████████░░░░░░░░░░░░░   47.53 % 
+Unknown Project          29 mins             ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+frp                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+tmuxifier                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+💻 Operating System: 
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/04/2026 08:41:42 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
