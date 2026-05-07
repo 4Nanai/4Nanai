@@ -62,23 +62,20 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       23 mins             ████████████████████░░░░░   81.35 % 
-KDL                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-frp                      23 mins             ████████████████████░░░░░   81.35 % 
-Unknown Project          5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/05/2026 09:14:22 UTC
+ Last Updated on 07/05/2026 09:14:28 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
