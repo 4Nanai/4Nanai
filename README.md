@@ -33,10 +33,56 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2031%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 09:33:47 UTC
+```text
+🌞 Morning                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                973 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌃 Evening                1342 commits        █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌙 Night                  820 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Bash                     6 mins              ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+
+🔥 Editors: 
+Neovim                   21 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+MDA                      8 mins              ██████████░░░░░░░░░░░░░░░   39.08 % 
+tmuxifier                6 mins              ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Unknown Project          6 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+chitose                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+MaaCommonAssets          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+
+💻 Operating System: 
+Linux                    21 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 08:26:24 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
