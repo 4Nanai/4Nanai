@@ -33,7 +33,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,27 +62,28 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   32.76 % 
-Bash                     6 mins              ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Markdown                 24 mins             ████████████████░░░░░░░░░   63.04 % 
+Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Neovim                   21 mins             █████████████████████████   100.00 % 
+Neovim                   38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MDA                      8 mins              ██████████░░░░░░░░░░░░░░░   39.08 % 
-tmuxifier                6 mins              ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Unknown Project          6 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-chitose                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-MaaCommonAssets          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Unknown Project          23 mins             ███████████████░░░░░░░░░░   60.46 % 
+MDA                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+tmuxifier                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+chitose                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+MaaCommonAssets          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    21 mins             ██████████████░░░░░░░░░░░   54.97 % 
+Mac                      17 mins             ███████████░░░░░░░░░░░░░░   45.03 % 
 ```
 
 
- Last Updated on 20/05/2026 10:03:56 UTC
+ Last Updated on 21/05/2026 10:13:24 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
