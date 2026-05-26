@@ -22,6 +22,7 @@
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=Claude&logoColor=white" />
   <img alt="niri" src="https://img.shields.io/badge/-niri-D55C44?style=flat-square&logo=niri&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>

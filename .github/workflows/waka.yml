@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_TIMEZONE: "False"
           BADGE_STYLE: "flat"
           SHOW_SHORT_INFO: "False"
