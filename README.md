@@ -34,28 +34,26 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2026%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌆 Daytime                973 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                1344 commits        █████████░░░░░░░░░░░░░░░░   37.97 % 
-🌙 Night                  822 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌞 Morning                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                975 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌃 Evening                1344 commits        █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌙 Night                  822 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Tuesday                  567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Monday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 ```
 
 
@@ -63,25 +61,30 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   38 mins             █████████████████░░░░░░░░   67.74 % 
-Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-env                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Go                       2 hrs 10 mins       ████████████████░░░░░░░░░   63.80 % 
+Python                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Lua                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Neovim                   56 mins             █████████████████████████   100.00 % 
+Neovim                   3 hrs 16 mins       ████████████████████████░   96.25 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🐱‍💻 Projects: 
-UPlug                    39 mins             █████████████████░░░░░░░░   69.15 % 
-Unknown Project          17 mins             ████████░░░░░░░░░░░░░░░░░   30.85 % 
+server                   2 hrs 24 mins       ██████████████████░░░░░░░   70.55 % 
+UPlug                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+MDA                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+nvim                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████░░░░░░░░   69.24 % 
-Mac                      17 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Linux                    3 hrs 16 mins       ████████████████████████░   96.25 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
- Last Updated on 26/05/2026 10:36:52 UTC
+ Last Updated on 27/05/2026 10:41:25 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
