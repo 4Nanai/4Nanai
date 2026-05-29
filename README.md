@@ -34,8 +34,57 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2041%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 10:33:50 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                975 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌃 Evening                1344 commits        █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌙 Night                  822 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     8 hrs 41 mins       ████████████████░░░░░░░░░   63.15 % 
+Go                       3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 59 mins       ██████████████████░░░░░░░   72.58 % 
+Neovim                   3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+
+🐱‍💻 Projects: 
+MDA                      9 hrs 59 mins       ██████████████████░░░░░░░   72.58 % 
+server                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+UPlug                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+nvim                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+💻 Operating System: 
+Windows                  9 hrs 59 mins       ██████████████████░░░░░░░   72.58 % 
+Linux                    3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+```
+
+
+ Last Updated on 29/05/2026 13:23:22 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
