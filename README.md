@@ -34,8 +34,59 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2043%20mins-blue?style=flat)
 
- Last Updated on 07/06/2026 09:49:04 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                975 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌃 Evening                1344 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
+🌙 Night                  832 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Sunday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       8 hrs 20 mins       ███████████████░░░░░░░░░░   58.48 % 
+JSON                     4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.26 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
+Neovim                   5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
+Claude Code              2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+
+🐱‍💻 Projects: 
+MDA                      7 hrs 13 mins       █████████████░░░░░░░░░░░░   50.65 % 
+server                   5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
+web                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+oh-my-bash               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+goblog                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+
+💻 Operating System: 
+Linux                    6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+Windows                  5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
+Mac                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+```
+
+
+ Last Updated on 08/06/2026 11:29:28 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
