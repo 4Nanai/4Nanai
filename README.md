@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,32 +61,28 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 4 mins        █████████████████░░░░░░░░   69.45 % 
-JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON                     3 hrs 22 mins       ███████████████░░░░░░░░░░   60.37 % 
+Go                       2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.43 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.80 % 
-Claude Code              1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+VS Code                  4 hrs 15 mins       ███████████████████░░░░░░   76.15 % 
+Neovim                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-MDA                      1 hr 59 mins        ███████████░░░░░░░░░░░░░░   45.16 % 
-server                   1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.89 % 
-web                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-goblog                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+MDA                      5 hrs 31 mins       █████████████████████████   98.79 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    2 hrs 21 mins       █████████████░░░░░░░░░░░░   53.31 % 
-Mac                      1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-Windows                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Windows                  4 hrs 15 mins       ███████████████████░░░░░░   76.15 % 
+Mac                      1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 ```
 
 
- Last Updated on 12/06/2026 10:52:45 UTC
+ Last Updated on 13/06/2026 09:44:58 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
