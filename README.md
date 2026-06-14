@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,28 +61,24 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     3 hrs 22 mins       ███████████████░░░░░░░░░░   60.37 % 
-Go                       2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.43 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON                     5 hrs 58 mins       ████████████████████░░░░░   79.25 % 
+Go                       1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       ███████████████████░░░░░░   76.15 % 
-Neovim                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  7 hrs 32 mins       █████████████████████████   99.90 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-MDA                      5 hrs 31 mins       █████████████████████████   98.79 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+MDA                      7 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       ███████████████████░░░░░░   76.15 % 
-Mac                      1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 09:44:58 UTC
+ Last Updated on 14/06/2026 10:06:50 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
