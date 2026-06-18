@@ -4,11 +4,11 @@
 
 ### A passionate software engineer
 
-- 🔭 I'm currently working on **a backup server**
+- 🔭 I'm currently working on **a MAA Framework based Nikke autoscript**
 
 - 🌱 I'm currently learning **Golang & Neovim**
 
-- 📫 How to reach me **4nanaiiyo@gmail.com**
+- 📫 How to reach me **toshi.li@icloud.com**
 
 **Things I code with**
 <p>
