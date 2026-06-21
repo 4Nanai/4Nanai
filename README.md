@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,25 +61,23 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 hrs 1 min         ████████████████████░░░░░   81.39 % 
-Go                       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     4 hrs 28 mins       █████████████████████░░░░   82.65 % 
+Go                       45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 37 mins       █████████████████████████   99.91 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MDA                      8 hrs 37 mins       █████████████████████████   99.88 % 
-image                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+MDA                      5 hrs 24 mins       █████████████████████████   99.82 % 
+image                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 09:52:39 UTC
+ Last Updated on 21/06/2026 10:12:15 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
