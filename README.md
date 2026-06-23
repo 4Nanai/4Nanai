@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,25 +61,25 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     3 hrs 57 mins       ████████████████████░░░░░   79.51 % 
-Go                       46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JSON                     4 hrs 24 mins       █████████████████████░░░░   82.74 % 
+Go                       40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MDA                      4 hrs 58 mins       █████████████████████████   99.80 % 
-image                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+MDA                      5 hrs 18 mins       █████████████████████████   99.81 % 
+image                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 12:37:23 UTC
+ Last Updated on 23/06/2026 10:14:06 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
