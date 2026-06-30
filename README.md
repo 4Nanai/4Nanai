@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2046%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,31 +61,31 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-JSON                     3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
-Lua                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Thrift                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Go                       7 hrs 40 mins       ██████████████░░░░░░░░░░░   56.61 % 
+JSON                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Lua                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Thrift                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-Neovim                   2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Claude Code              2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Claude Code              5 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
+Neovim                   4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
+VS Code                  3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
 
 🐱‍💻 Projects: 
-MDA                      4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-helix                    4 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.09 % 
-nvim                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-tmuxifier                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+helix                    8 hrs 31 mins       ████████████████░░░░░░░░░   62.86 % 
+MDA                      3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+nvim                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+tmuxifier                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.53 % 
-Windows                  4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+Mac                      9 hrs 56 mins       ██████████████████░░░░░░░   73.38 % 
+Windows                  3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
 ```
 
 
- Last Updated on 29/06/2026 11:35:21 UTC
+ Last Updated on 30/06/2026 10:11:01 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
