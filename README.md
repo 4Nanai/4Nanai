@@ -34,26 +34,26 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                946 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌃 Evening                1317 commits        █████████░░░░░░░░░░░░░░░░   37.93 % 
-🌙 Night                  811 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+🌞 Morning                408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+🌆 Daytime                982 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+🌃 Evening                1345 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌙 Night                  836 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Tuesday                  552 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Wednesday                527 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Thursday                 467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Sunday                   626 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Sunday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 ```
 
 
@@ -61,32 +61,32 @@ Sunday                   626 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
-Markdown                 2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Swift                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Go                       4 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Swift                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 12 mins       █████████████░░░░░░░░░░░░   50.45 % 
-Claude Code              3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Codex CLI                2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Neovim                   7 hrs 20 mins       ██████████████░░░░░░░░░░░   57.17 % 
+Codex CLI                3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Claude Code              1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🐱‍💻 Projects: 
-helix                    6 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.12 % 
-keisan                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-python_delivery_atoms    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-MDA                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+helix                    5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
+keisan                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+python_delivery_atoms    1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+MDA                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Mac                      13 hrs 6 mins       ███████████████████████░░   91.81 % 
-Windows                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Mac                      11 hrs 41 mins      ███████████████████████░░   90.90 % 
+Windows                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 
 
- Last Updated on 07/07/2026 10:09:24 UTC
+ Last Updated on 08/07/2026 09:09:33 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
