@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2037%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,31 +61,31 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
-JSON                     3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Go                       4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
+JSON                     3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.87 % 
-VS Code                  3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Codex CLI                2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Neovim                   4 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.68 % 
+VS Code                  3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Codex CLI                2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 
 🐱‍💻 Projects: 
-MDA                      4 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.79 % 
-continuous_delivery_atoms2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-helix                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-tcc_specified_key_ticket 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-python_delivery_atoms    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+MDA                      4 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.69 % 
+continuous_delivery_atoms2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+helix                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+tcc_specified_key_ticket 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+automated_test           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Mac                      4 hrs 58 mins       █████████████░░░░░░░░░░░░   51.21 % 
-Windows                  4 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.79 % 
+Mac                      4 hrs 55 mins       █████████████░░░░░░░░░░░░   51.31 % 
+Windows                  4 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.69 % 
 ```
 
 
- Last Updated on 17/07/2026 08:39:01 UTC
+ Last Updated on 18/07/2026 08:24:05 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
