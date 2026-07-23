@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2041%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,28 +61,29 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.98 % 
-Go                       27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+JSON                     1 hr 28 mins        ███████████░░░░░░░░░░░░░░   45.59 % 
+Go                       1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🔥 Editors: 
-Codex CLI                46 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
-Neovim                   44 mins             ████████░░░░░░░░░░░░░░░░░   33.24 % 
-VS Code                  42 mins             ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Codex CLI                1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.77 % 
+VS Code                  1 hr                ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Neovim                   56 mins             ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 
 🐱‍💻 Projects: 
-MDA                      1 hr 28 mins        █████████████████░░░░░░░░   66.76 % 
-automated_test           22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-faas-golang-v1           21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+MDA                      1 hr 51 mins        ██████████████░░░░░░░░░░░   57.73 % 
+helix                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+automated_test           22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+faas-golang-v1           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████░░░░░░░░   66.76 % 
-Mac                      44 mins             ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Windows                  1 hr 51 mins        ██████████████░░░░░░░░░░░   57.73 % 
+Mac                      1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.27 % 
 ```
 
 
- Last Updated on 22/07/2026 09:13:16 UTC
+ Last Updated on 23/07/2026 09:13:20 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
