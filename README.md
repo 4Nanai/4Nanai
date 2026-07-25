@@ -36,8 +36,54 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2032%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 09:06:59 UTC
+```text
+🌞 Morning                408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                987 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                1345 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌙 Night                  839 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     2 hrs 52 mins       █████████████░░░░░░░░░░░░   51.23 % 
+Go                       1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+
+🔥 Editors: 
+Codex CLI                2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.86 % 
+VS Code                  2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.59 % 
+Neovim                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+
+🐱‍💻 Projects: 
+MDA                      3 hrs 45 mins       █████████████████░░░░░░░░   67.05 % 
+helix                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+faas-golang-v1           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+
+💻 Operating System: 
+Windows                  3 hrs 45 mins       █████████████████░░░░░░░░   67.05 % 
+Mac                      1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.95 % 
+```
+
+
+ Last Updated on 25/07/2026 08:33:59 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
