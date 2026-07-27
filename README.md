@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,31 +61,31 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
-Go                       3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
-Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JSON                     4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
+Go                       3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.64 % 
-VS Code                  3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-Neovim                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Codex CLI                4 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.74 % 
+VS Code                  3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.26 % 
+Neovim                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 
 🐱‍💻 Projects: 
-MDA                      5 hrs 51 mins       ███████████████░░░░░░░░░░   59.82 % 
-helix                    3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-faas-golang-v1           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-tcc_monorepo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-python_delivery_atoms    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+MDA                      6 hrs 2 mins        ███████████████░░░░░░░░░░   60.57 % 
+helix                    3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
+faas-golang-v1           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+tcc_monorepo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+python_delivery_atoms    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  5 hrs 51 mins       ███████████████░░░░░░░░░░   59.82 % 
-Mac                      3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.18 % 
+Windows                  6 hrs 2 mins        ███████████████░░░░░░░░░░   60.57 % 
+Mac                      3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
 ```
 
 
- Last Updated on 26/07/2026 09:00:36 UTC
+ Last Updated on 27/07/2026 10:29:09 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
