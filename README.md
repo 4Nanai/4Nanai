@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2012%20mins-blue?style=flat)
 
@@ -63,54 +63,54 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
-Go                       3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Markdown                 2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     4 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.05 % 
+Go                       2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Markdown                 2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Codex CLI                6 hrs 5 mins        ██████████████░░░░░░░░░░░   55.39 % 
-VS Code                  3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Neovim                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Codex CLI                5 hrs               █████████████░░░░░░░░░░░░   52.33 % 
+VS Code                  3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Neovim                   1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 
 🐱‍💻 Projects: 
-MDA                      6 hrs 1 min         ██████████████░░░░░░░░░░░   54.73 % 
-helix                    4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-tcc_monorepo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-python_delivery_atoms    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-faas-golang-v1           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+MDA                      4 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.82 % 
+helix                    4 hrs 42 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+tcc_monorepo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+python_delivery_atoms    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+continuous_delivery_atoms0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         ██████████████░░░░░░░░░░░   54.73 % 
-Mac                      4 hrs 58 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
+Mac                      4 hrs 48 mins       █████████████░░░░░░░░░░░░   50.18 % 
+Windows                  4 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 55 mins (81.08%)
+⏱ AI Coding Time: 7 hrs 38 mins (79.73%)
 
-✍️ 4,883 lines written by AI, 121 lines written by hand (97.58% AI-written)
+✍️ 2,532 lines written by AI, 121 lines written by hand (95.44% AI-written)
 
-🔤 164,838,602 Input Tokens, 522,004 Output Tokens
+🔤 132,152,384 Input Tokens, 411,306 Output Tokens
 
-💵 $811.67 Estimated AI Cost This Week
+💵 $664.93 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 206 AI Prompts
+🧠 34 AI Sessions, 184 AI Prompts
 
-GPT                      5,151 lines         █████████████████████████   100.00 % 
+GPT                      2,782 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.58% of written lines came from AI
-📚 Verbose Prompter — average 5,219 characters per prompt
+🤖 AI-Driven — 95.44% of written lines came from AI
+📚 Verbose Prompter — average 4,197 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.52% of changed lines were hand-edited
+🚀 High AI Trust — 4.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 09:21:01 UTC
+ Last Updated on 29/07/2026 09:25:43 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
