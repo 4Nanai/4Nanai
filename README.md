@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,54 +63,53 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 35 mins       █████████████████░░░░░░░░   68.15 % 
-Python                   2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    15 hrs 47 mins      ████████████████████░░░░░   79.48 % 
+JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Go                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Codex CLI                12 hrs 50 mins      ███████████████████████░░   91.16 % 
-VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Codex CLI                18 hrs 37 mins      ███████████████████████░░   93.74 % 
+VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-continuous_delivery_atoms5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
-hagrid                   2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-MDA                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-bytedcli                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-one_create_faas          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+continuous_delivery_atoms6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
+one_create_faas          4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+bytedcli                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+hagrid                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+MDA                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 💻 Operating System: 
-Mac                      12 hrs 42 mins      ███████████████████████░░   90.22 % 
-Windows                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Mac                      18 hrs 29 mins      ███████████████████████░░   93.07 % 
+Windows                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (93.8%)
+⏱ AI Coding Time: 19 hrs (95.61%)
 
-✍️ 9 lines written by AI, 9 lines written by hand (50.0% AI-written)
+✍️ 27 lines written by AI, 9 lines written by hand (75.0% AI-written)
 
-🔤 202,199,408 Input Tokens, 558,718 Output Tokens
+🔤 300,353,798 Input Tokens, 764,003 Output Tokens
 
-💵 $973.58 Estimated AI Cost This Week
+💵 $1473.43 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 365 AI Prompts
+🧠 75 AI Sessions, 448 AI Prompts
 
-GPT                      9 lines             █████████████████████████   100.00 % 
+GPT                      27 lines            █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📚 Verbose Prompter — average 5,572 characters per prompt
+🤖 AI-Driven — 75.0% of written lines came from AI
+📚 Verbose Prompter — average 5,855 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 78.57% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 09:22:14 UTC
+ Last Updated on 06/08/2026 09:26:06 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
