@@ -34,8 +34,82 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2016%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 07:54:32 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2045%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                987 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                1345 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌙 Night                  839 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    16 hrs 54 mins      ███████████████░░░░░░░░░░   58.14 % 
+Go                       6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+
+🔥 Editors: 
+Codex CLI                28 hrs 30 mins      █████████████████████████   98.04 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🐱‍💻 Projects: 
+one_create_faas          12 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   41.94 % 
+query_usttp_atom_info    6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+bytedcli                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+continuous_delivery_atoms3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+automated_test           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+
+💻 Operating System: 
+Mac                      28 hrs 39 mins      █████████████████████████   98.59 % 
+Windows                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 39 mins (98.55%)
+
+✍️ 1,787 lines written by AI, 4 lines written by hand (99.78% AI-written)
+
+🔤 358,883,982 Input Tokens, 1,038,958 Output Tokens
+
+💵 $1856.35 Estimated AI Cost This Week
+
+🧠 60 AI Sessions, 466 AI Prompts
+
+GPT                      1,859 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 5,760 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.69% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 07:33:01 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
