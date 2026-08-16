@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,54 +63,53 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 48 mins      ███████████████░░░░░░░░░░   59.52 % 
-Go                       2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    10 hrs 25 mins      ██████████████░░░░░░░░░░░   55.56 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+TypeScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Codex CLI                17 hrs 1 min        ███████████████████████░░   93.83 % 
-Neovim                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Codex CLI                16 hrs 34 mins      ██████████████████████░░░   88.27 % 
+Neovim                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-serverless-monorepo      5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-query_usttp_atom_info    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-continuous_delivery_atoms1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-bytedcli                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-one_create_faas          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+serverless-monorepo      5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+query_usttp_atom_info    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+continuous_delivery_atoms1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+bytedcli                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+nexus_flow               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 49 mins      █████████████████████████   98.17 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Mac                      18 hrs 41 mins      █████████████████████████   99.62 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 16 mins (95.14%)
+⏱ AI Coding Time: 16 hrs 58 mins (90.47%)
 
-✍️ 5,745 lines written by AI, 26 lines written by hand (99.55% AI-written)
+✍️ 5,877 lines written by AI, 85 lines written by hand (98.57% AI-written)
 
-🔤 22,033,430 Input Tokens, 1,126,158 Output Tokens
+🔤 21,631,468 Input Tokens, 1,108,038 Output Tokens
 
-💵 $310.07 Estimated AI Cost This Week
+💵 $305.56 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 437 AI Prompts
+🧠 52 AI Sessions, 417 AI Prompts
 
-GPT                      5,801 lines         █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      5,948 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📚 Verbose Prompter — average 6,225 characters per prompt
+🤖 AI-Driven — 98.57% of written lines came from AI
+📚 Verbose Prompter — average 6,120 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🚀 High AI Trust — 2.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 07:09:45 UTC
+ Last Updated on 16/08/2026 07:12:10 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
