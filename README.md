@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,53 +63,53 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 49 mins      █████████████░░░░░░░░░░░░   52.78 % 
-Markdown                 4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-TypeScript               2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Go                       2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Other                    10 hrs              ███████████░░░░░░░░░░░░░░   44.45 % 
+TypeScript               6 hrs               ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Markdown                 3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Go                       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Protocol Buffer          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Codex CLI                17 hrs 20 mins      █████████████████████░░░░   84.57 % 
-Neovim                   3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Codex CLI                18 hrs 57 mins      █████████████████████░░░░   84.18 % 
+Neovim                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-serverless-monorepo      6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-continuous_delivery_atoms2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-query_usttp_atom_info    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-bytedcli                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-nexus_flow               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+serverless-monorepo      9 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+continuous_delivery_atoms2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+bytedcli                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+nexus_flow               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Unknown Project          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Mac                      20 hrs 25 mins      █████████████████████████   99.65 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Mac                      22 hrs 27 mins      █████████████████████████   99.68 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 1 min (87.94%)
+⏱ AI Coding Time: 19 hrs 58 mins (88.63%)
 
-✍️ 5,797 lines written by AI, 93 lines written by hand (98.42% AI-written)
+✍️ 5,312 lines written by AI, 118 lines written by hand (97.83% AI-written)
 
-🔤 22,046,229 Input Tokens, 1,147,065 Output Tokens
+🔤 23,247,886 Input Tokens, 1,188,238 Output Tokens
 
-💵 $313.19 Estimated AI Cost This Week
+💵 $314.18 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 435 AI Prompts
+🧠 62 AI Sessions, 505 AI Prompts
 
-GPT                      5,870 lines         █████████████████████████   100.00 % 
+GPT                      5,428 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.42% of written lines came from AI
-📚 Verbose Prompter — average 6,203 characters per prompt
+🤖 AI-Driven — 97.83% of written lines came from AI
+📚 Verbose Prompter — average 5,704 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.61% of changed lines were hand-edited
+🚀 High AI Trust — 3.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 07:36:40 UTC
+ Last Updated on 18/08/2026 07:23:22 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
