@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,51 +63,51 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-TypeScript               6 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Go                       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Protocol Buffer          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    9 hrs               ██████████░░░░░░░░░░░░░░░   40.95 % 
+TypeScript               7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Markdown                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Go                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Protocol Buffer          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-Codex CLI                17 hrs 13 mins      ████████████████████░░░░░   81.68 % 
-Neovim                   3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Codex CLI                18 hrs 43 mins      █████████████████████░░░░   85.07 % 
+Neovim                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 
 🐱‍💻 Projects: 
-serverless-monorepo      10 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.04 % 
-continuous_delivery_atoms1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-bytedcli                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Unknown Project          1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-flux-brainstorm          1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+serverless-monorepo      11 hrs 42 mins      █████████████░░░░░░░░░░░░   53.18 % 
+bytedcli                 2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Unknown Project          1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+continuous_delivery_atoms1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+hagrid                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Mac                      21 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 22 mins (87.13%)
+⏱ AI Coding Time: 19 hrs 47 mins (89.92%)
 
-✍️ 1,214 lines written by AI, 304 lines written by hand (79.97% AI-written)
+✍️ 1,208 lines written by AI, 288 lines written by hand (80.75% AI-written)
 
-🔤 22,689,904 Input Tokens, 1,026,945 Output Tokens
+🔤 22,013,571 Input Tokens, 1,062,676 Output Tokens
 
-💵 $303.92 Estimated AI Cost This Week
+💵 $306.65 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 433 AI Prompts
+🧠 61 AI Sessions, 532 AI Prompts
 
-GPT                      1,320 lines         █████████████████████████   100.00 % 
+GPT                      1,347 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.97% of written lines came from AI
-📚 Verbose Prompter — average 5,836 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 35.43% of changed lines were hand-edited
+🤖 AI-Driven — 80.75% of written lines came from AI
+📚 Verbose Prompter — average 5,872 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 34.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 07:23:22 UTC
+ Last Updated on 20/08/2026 07:25:55 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
