@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,51 +63,51 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.65 % 
-TypeScript               5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Markdown                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Go                       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Protocol Buffer          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other                    10 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.50 % 
+TypeScript               5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Markdown                 2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Go                       1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Codex CLI                16 hrs 3 mins       █████████████████████░░░░   84.01 % 
-Neovim                   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Codex CLI                18 hrs 49 mins      ██████████████████████░░░   86.07 % 
+Neovim                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 🐱‍💻 Projects: 
-serverless-monorepo      8 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
-Unknown Project          1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-continuous_delivery_atoms1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-python_delivery_atoms    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-bytedcli                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+serverless-monorepo      7 hrs               ████████░░░░░░░░░░░░░░░░░   32.05 % 
+python_delivery_atoms    5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+Unknown Project          1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+continuous_delivery_atoms1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+hagrid                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Mac                      19 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs (88.98%)
+⏱ AI Coding Time: 19 hrs 45 mins (90.37%)
 
-✍️ 1,055 lines written by AI, 288 lines written by hand (78.56% AI-written)
+✍️ 1,299 lines written by AI, 288 lines written by hand (81.85% AI-written)
 
-🔤 17,018,328 Input Tokens, 885,943 Output Tokens
+🔤 18,735,188 Input Tokens, 972,274 Output Tokens
 
-💵 $265.05 Estimated AI Cost This Week
+💵 $289.09 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 424 AI Prompts
+🧠 58 AI Sessions, 491 AI Prompts
 
-GPT                      1,202 lines         █████████████████████████   100.00 % 
+GPT                      1,449 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.56% of written lines came from AI
-📚 Verbose Prompter — average 5,419 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 37.28% of changed lines were hand-edited
+🤖 AI-Driven — 81.85% of written lines came from AI
+📚 Verbose Prompter — average 5,195 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 32.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 07:27:17 UTC
+ Last Updated on 22/08/2026 07:12:04 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
