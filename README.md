@@ -63,51 +63,51 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 23 mins      █████████████░░░░░░░░░░░░   50.55 % 
-TypeScript               4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Markdown                 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Go                       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    10 hrs 5 mins       ██████████████░░░░░░░░░░░   54.41 % 
+TypeScript               4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Go                       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Codex CLI                18 hrs 40 mins      ███████████████████████░░   90.89 % 
-Neovim                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Codex CLI                17 hrs 14 mins      ████████████████████████░   94.98 % 
+Neovim                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🐱‍💻 Projects: 
-serverless-monorepo      6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
-python_delivery_atoms    5 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-continuous_delivery_atoms1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Unknown Project          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-hagrid                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+serverless-monorepo      6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.19 % 
+python_delivery_atoms    5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
+hagrid                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+one_create_faas          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+continuous_delivery_atoms51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-Mac                      20 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 25 mins (94.49%)
+⏱ AI Coding Time: 17 hrs 42 mins (97.53%)
 
-✍️ 1,152 lines written by AI, 224 lines written by hand (83.72% AI-written)
+✍️ 1,123 lines written by AI, 216 lines written by hand (83.87% AI-written)
 
-🔤 18,472,841 Input Tokens, 957,040 Output Tokens
+🔤 17,300,519 Input Tokens, 881,578 Output Tokens
 
-💵 $286.42 Estimated AI Cost This Week
+💵 $273.76 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 487 AI Prompts
+🧠 51 AI Sessions, 461 AI Prompts
 
-GPT                      1,287 lines         █████████████████████████   100.00 % 
+GPT                      1,256 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.72% of written lines came from AI
-📚 Verbose Prompter — average 5,237 characters per prompt
+🤖 AI-Driven — 83.87% of written lines came from AI
+📚 Verbose Prompter — average 5,213 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 31.23% of changed lines were hand-edited
+🚀 High AI Trust — 31.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 07:13:24 UTC
+ Last Updated on 24/08/2026 07:41:43 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
