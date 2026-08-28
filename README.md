@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2048%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,51 +63,51 @@ Sunday                   642 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 10 mins       █████████████████░░░░░░░░   67.93 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Go                       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    6 hrs 56 mins       ████████████████░░░░░░░░░   62.42 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Go                       47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Codex CLI                13 hrs 1 min        ████████████████████████░   96.95 % 
-Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Codex CLI                10 hrs 32 mins      ████████████████████████░   95.35 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🐱‍💻 Projects: 
-python_delivery_atoms    7 hrs 45 mins       ██████████████░░░░░░░░░░░   57.76 % 
-continuous_delivery_atoms3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-one_create_faas          1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-helix                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-flux-prd-generation      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+python_delivery_atoms    6 hrs 25 mins       ███████████████░░░░░░░░░░   58.15 % 
+continuous_delivery_atoms2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+one_create_faas          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+serverless-monorepo      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+helix                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 6 mins (97.67%)
+⏱ AI Coding Time: 10 hrs 45 mins (97.23%)
 
-✍️ 2,068 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,087 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,453,539 Input Tokens, 756,378 Output Tokens
+🔤 10,534,531 Input Tokens, 611,958 Output Tokens
 
-💵 $161.53 Estimated AI Cost This Week
+💵 $123.66 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 293 AI Prompts
+🧠 21 AI Sessions, 238 AI Prompts
 
-GPT                      2,073 lines         █████████████████████████   100.00 % 
+GPT                      2,096 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,263 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 5,336 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 17:53:48 UTC
+ Last Updated on 28/08/2026 18:59:10 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
