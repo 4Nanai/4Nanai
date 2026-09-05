@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,52 +63,52 @@ Sunday                   641 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Other                    6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Markdown                 4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-TypeScript               3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Diff                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Go                       6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Markdown                 4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Other                    4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+TypeScript               3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Codex CLI                25 hrs 3 mins       █████████████████████████   99.03 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Codex CLI                19 hrs 8 mins       █████████████████████████   98.45 % 
+Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-nexus_flow               9 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
-flux-ci-skill            7 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-swarm                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-continuous_delivery_atoms1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-env_deploy_service       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+nexus_flow               9 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.80 % 
+swarm                    3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+flux-ci-skill            3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+continuous_delivery_atoms1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+bytedcli                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      25 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 15 mins (99.8%)
+⏱ AI Coding Time: 19 hrs 19 mins (99.4%)
 
-✍️ 19,026 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,563 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,514,839 Input Tokens, 1,706,072 Output Tokens
+🔤 20,102,696 Input Tokens, 1,175,182 Output Tokens
 
-💵 $286.95 Estimated AI Cost This Week
+💵 $219.81 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 813 AI Prompts
+🧠 40 AI Sessions, 618 AI Prompts
 
-GPT                      19,630 lines        █████████████████████████   100.00 % 
+GPT                      10,127 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,677 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📚 Verbose Prompter — average 13,754 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 11:40:49 UTC
+ Last Updated on 05/09/2026 10:53:41 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
