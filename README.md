@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2032%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,50 +63,50 @@ Sunday                   585 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 51 mins       ██████████████████░░░░░░░   70.06 % 
-Go                       2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Other                    7 hrs               █████████████████░░░░░░░░   67.04 % 
+Go                       2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 28 mins      ███████████████████████░░   93.43 % 
-Neovim                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Codex CLI                9 hrs 45 mins       ███████████████████████░░   93.24 % 
+Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-continuous_delivery_atoms3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-nexus_flow               3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-flux-ci-skill            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-flux-brainstorm          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-create_pipeline_by_templa42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+continuous_delivery_atoms3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
+nexus_flow               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+flux-ci-skill            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+create_pipeline_by_templa44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+flux-brainstorm          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 45 mins (95.88%)
+⏱ AI Coding Time: 10 hrs 1 min (95.87%)
 
-✍️ 2,190 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,761 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,455,862 Input Tokens, 586,020 Output Tokens
+🔤 8,440,711 Input Tokens, 601,775 Output Tokens
 
-💵 $95.15 Estimated AI Cost This Week
+💵 $76.54 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 224 AI Prompts
+🧠 42 AI Sessions, 267 AI Prompts
 
-GPT                      2,450 lines         █████████████████████████   100.00 % 
+GPT                      3,831 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,441 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 10,848 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 12:09:06 UTC
+ Last Updated on 25/09/2026 12:09:13 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
