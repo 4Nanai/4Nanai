@@ -63,50 +63,50 @@ Sunday                   585 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs               █████████████████░░░░░░░░   67.04 % 
-Go                       2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other                    6 hrs 25 mins       █████████████████░░░░░░░░   69.60 % 
+Go                       1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 45 mins       ███████████████████████░░   93.24 % 
-Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Codex CLI                8 hrs 30 mins       ███████████████████████░░   92.33 % 
+Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-continuous_delivery_atoms3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
-nexus_flow               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-flux-ci-skill            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-create_pipeline_by_templa44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-flux-brainstorm          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+continuous_delivery_atoms3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
+flux-ci-skill            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+nexus_flow               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+flux-brainstorm          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+create_pipeline_by_templa34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (95.87%)
+⏱ AI Coding Time: 8 hrs 47 mins (95.31%)
 
-✍️ 3,761 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 451 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,440,711 Input Tokens, 601,775 Output Tokens
+🔤 7,026,720 Input Tokens, 436,692 Output Tokens
 
-💵 $76.54 Estimated AI Cost This Week
+💵 $66.70 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 267 AI Prompts
+🧠 35 AI Sessions, 218 AI Prompts
 
-GPT                      3,831 lines         █████████████████████████   100.00 % 
+GPT                      504 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,848 characters per prompt
+📚 Verbose Prompter — average 11,307 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 12:09:13 UTC
+ Last Updated on 26/09/2026 11:44:17 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
