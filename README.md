@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,42 +63,43 @@ Sunday                   585 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             3 mins              █████████████████████████   100.00 % 
+Codex Vscode             23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dev                      3 mins              █████████████████████████   100.00 % 
+dev                      15 mins             ████████████████░░░░░░░░░   64.30 % 
+python_delivery_atoms    8 mins              █████████░░░░░░░░░░░░░░░░   35.70 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
+⏱ AI Coding Time: 23 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 46,425 Input Tokens, 1,211 Output Tokens
+🔤 140,100 Input Tokens, 5,248 Output Tokens
 
-💵 $3.49 Estimated AI Cost This Week
+💵 $6.48 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
 GPT                      9 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 34 characters per prompt
+📝 Concise Prompter — average 42 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 13:48:52 UTC
+ Last Updated on 08/10/2026 13:56:27 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
