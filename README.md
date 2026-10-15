@@ -34,9 +34,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -63,51 +63,52 @@ Sunday                   585 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Other                    6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Markdown                 3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Go                       2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Python                   9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Other                    6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Markdown                 6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Go                       3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 47 mins      █████████████████████████   99.37 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Codex Vscode             28 hrs 44 mins      █████████████████████████   98.58 % 
+Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-prototype-evals          12 hrs 10 mins      ██████████████░░░░░░░░░░░   55.53 % 
-nexus_flow               4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-dev                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-faas_debug_params_update 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-bytedcli                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+prototype-evals          18 hrs 37 mins      ████████████████░░░░░░░░░   63.86 % 
+nexus_flow               5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+faas_debug_params_update 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+bytedcli                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+dev                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Mac                      21 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (100.0%)
+⏱ AI Coding Time: 29 hrs 9 mins (100.0%)
 
-✍️ 8,591 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,900 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,832,798 Input Tokens, 1,178,162 Output Tokens
+🔤 19,361,755 Input Tokens, 1,754,619 Output Tokens
 
-💵 $143.80 Estimated AI Cost This Week
+💵 $195.66 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 168 AI Prompts
+🧠 47 AI Sessions, 244 AI Prompts
 
-GPT                      8,624 lines         █████████████████████████   100.00 % 
+GPT                      11,930 lines        █████████████████████████   99.97 % 
+Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,059 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,587 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 12:18:40 UTC
+ Last Updated on 15/10/2026 12:00:41 UTC
 <!--END_SECTION:waka-->
 
 🚀 **Top languages**
